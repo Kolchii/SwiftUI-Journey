@@ -38,3 +38,4 @@ struct ProfileCard: View {
 #Preview {
     ProfileCard()
 }
+
